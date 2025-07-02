@@ -1,4 +1,4 @@
-# ZamaTestnetGuide
+# Zama Testnet Guide
 
 ![Zama factsheet 2025 EN](https://github.com/user-attachments/assets/984fce0c-df58-4f97-8646-02b45ce47afc)
 [Official Site](zama.ai)
@@ -28,3 +28,16 @@
 - **Announced Zama Protocol** — a privacy layer over existing chains, protecting transactions and states
 
 - **Public testnet to launch in July 2025**
+
+# Guild.xyz Guide 
+
+![image](https://github.com/user-attachments/assets/206a8970-f506-4179-8015-8ea03fd35326)
+
+
+```
+Zama Testnet Guide
+└──Guild.xyz Guide
+   ├──New to Zama & FHE? Start here
+   ├──Developer Program
+   └──Bounty Program
+```
