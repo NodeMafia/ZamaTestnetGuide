@@ -27,7 +27,7 @@ For Zama, we will need:
 
 Please note that your EVM address must be active and have more than 3 transactions in ETH Mainnet, as well as a balance greater than or equal to 0.1 ETH or 250 USDC. This is one of the main requirements for one of the main tasks.
 
-# New to Zama & FHE? Start here
+
 ### 1. Start by connecting wallet to the Zama Guild
 Verify your E-mail and complite CAPTCHA
 Afterwards, don't forget to join the Zama Discord if you haven't already. https://discord.gg/pZ3vtUYWTG
@@ -48,7 +48,8 @@ Follow on at least three of Zama channels:
 Hold at least 0.1 ETH / 250 USDC and have at least 3 transactions on Ethereum mainnet
 
 ![image](https://github.com/user-attachments/assets/dcf3fa41-5fb9-40a6-ba42-cc81bf15b1f0)
-
+# New to Zama & FHE? Start here
+TBA
 # Creator Program
 TBA
 # Developer Program
